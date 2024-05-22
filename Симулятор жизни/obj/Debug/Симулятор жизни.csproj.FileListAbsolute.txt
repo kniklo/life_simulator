@@ -1,0 +1,10 @@
+C:\Users\vityo\source\repos\Симулятор жизни\Симулятор жизни\bin\Debug\Симулятор жизни.exe.config
+C:\Users\vityo\source\repos\Симулятор жизни\Симулятор жизни\bin\Debug\Симулятор жизни.exe
+C:\Users\vityo\source\repos\Симулятор жизни\Симулятор жизни\bin\Debug\Симулятор жизни.pdb
+C:\Users\vityo\source\repos\Симулятор жизни\Симулятор жизни\obj\Debug\Симулятор жизни.csproj.AssemblyReference.cache
+C:\Users\vityo\source\repos\Симулятор жизни\Симулятор жизни\obj\Debug\Симулятор_жизни.Form1.resources
+C:\Users\vityo\source\repos\Симулятор жизни\Симулятор жизни\obj\Debug\Симулятор_жизни.Properties.Resources.resources
+C:\Users\vityo\source\repos\Симулятор жизни\Симулятор жизни\obj\Debug\Симулятор жизни.csproj.GenerateResource.cache
+C:\Users\vityo\source\repos\Симулятор жизни\Симулятор жизни\obj\Debug\Симулятор жизни.csproj.CoreCompileInputs.cache
+C:\Users\vityo\source\repos\Симулятор жизни\Симулятор жизни\obj\Debug\Симулятор жизни.exe
+C:\Users\vityo\source\repos\Симулятор жизни\Симулятор жизни\obj\Debug\Симулятор жизни.pdb
